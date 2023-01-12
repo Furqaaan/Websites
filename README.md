@@ -1,5 +1,5 @@
 # Websites
 Cool websites that i use
 
-```playcode.io ``` \
+```codesandbox.io ``` \
  Minimal and good online javascript editor
